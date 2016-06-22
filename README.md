@@ -10,7 +10,11 @@ A Near Eye Display dive computer for SCUBA Divers.
     - [schematics](http://www.lummax-ele.com/Uploads/Editor/20160615/20160615024818_53627.jpg)
 - [LPP1620 biconvex plastic lense](http://www.knightoptical.com/stock/optical-components/uvvisnir-optics/lenses/plastic-lenses/plastic-lenses-singlets/plastic-lens-1600mm-dia-2000mm-fl-biconvex/)
     - $5.35
+- FH35C HRS connector
 
 ### Development
+- FH35C to DIP breakout board
+
 ### Research
+- Buhlmann's book
 
