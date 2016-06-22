@@ -1,0 +1,15 @@
+apply from: 'arm.gradle'
+
+defaultTasks 'scuba_ned'
+
+model {
+    components {
+        scuba_ned(NativeExecutableSpec) {
+            binaries.all {
+                lib library: 'libc', linkage: 'static'
+                lib library: 'libstdcpp', linkage: 'static'
+                lib library: 'libsupcpp', linkage: 'static'
+            }
+        }
+    }
+}
