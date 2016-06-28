@@ -1,0 +1,6 @@
+part,price,description,datasheet,phase
+LPP2016,$5.35,Lens,,
+ER-OLED0.66-1B,$2.87,Blue on Black 0.66in 64x58 OLED display,http://www.buydisplay.com/default/serial-spi-i2c-0-66-inch-very-smalll-oled-display-module-64x48-ssd1306,
+MPX5700AX,$16.09,Pressure sensor,http://www.digikey.com/product-search/en?mpart=MPX5700AP&vendor=375,
+STM32F303 K8T6,$4.28,Microcontroller,http://www.digikey.com/product-detail/en/stmicroelectronics/STM32F303K8T6/497-15828-ND/5268259,
+LCD-13003,$14.95,SparkFun Micro OLED breakout board,http://www.digikey.com/product-detail/en/sparkfun-electronics/LCD-13003/1568-1188-ND/5673774,development
