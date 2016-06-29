@@ -1,0 +1,33 @@
+- hook
+    - boredom punctuated by moments of terror
+    - so is scuba, but without the boredom
+- problem statement
+    - "Procedural errors, compounded by large cognative loads at critical phases of
+        a dive result in divers suffering injury and death."
+    - "existing solutions are all expensive, in addition not suitable for OC divers"
+        - Sherwater NERD: mounted on CCR hose
+        - Mask with built in HUD: cannot swap masks
+- solution statement
+    - sHUD - head up/augmented reality display for scuba divers.
+    - prioritizes and keeps essential information in view at all times, reducing cognative
+        load and preventing procedural errors.
+    - TODO: have conceptual drawing.
+- executing
+    - design goals
+        - suitable for open circuits rec. divers
+            - no CCR hose
+            - not prohibitively expensive
+        - distinct unit
+            - not built into mask
+        - non-intrusive
+            - does not interfere with normal procedures, such as swapping or replacing mask
+            - small fov
+    - implementation
+        - main unit attached to mask strap like snorkel
+        - computer measures and prioritizes information
+        - optics present contents of small oled display into divers FOV
+        - display stabilized with neodynium magnets on either side of mask glass
+        - TODO: diagram
+- the ask
+    - money to develop
+        - prototype cheap, but production unit needs testing, certification etc.
