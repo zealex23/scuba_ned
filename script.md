@@ -42,4 +42,7 @@ will need to undergo rigorous testing and certification to be ready for prime-ti
 
 Conclusion
 ==========
-How might our diver's story have been different if he had
+How might our diver's story have been different if he had been using our system?
+When he made his rapid ascent to the surface, his focus was on his tank pressure,
+but the most imminent threat at that point was his rapid ascent rate.  Our computer
+could have detected this and flashed him an ascent rate warning.
