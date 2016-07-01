@@ -42,7 +42,12 @@ will need to undergo rigorous testing and certification to be ready for prime-ti
 
 Conclusion
 ----------
-How might our diver's story have been different if he had been using our system?
-When he made his rapid ascent to the surface, his focus was on his tank pressure,
-but the most imminent threat at that point was his rapid ascent rate.  Our computer
-could have detected this and flashed him an ascent rate warning.
+
+The Ask
+=======
+While most of the technology is available and in use today, the optimized set up is not. 
+In order to create the sHUD, both time and funding are needed. Time for research,
+development, and testing is needed to ensure durability and reliability through numerous 
+dives at depth (target is 300 ft). Funding is an integral part, with an estimated amount 
+of 500k for materials, prototypes, field tests, and required certifications; this is not
+only scuba gear, but a life-saving/medical device. 
