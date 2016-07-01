@@ -1,6 +1,12 @@
-Hook
+Hook and Introduction
 ====
-Story about diver dying.
+Main Points to Cover:
+
+Intro: 
+When things go wrong during a dive, the outcomes are serious, and potentially fatal. One main reason a dive ends in a morgue is not the situation itself, but the state of panicked thinking which causes a diver to act in unintelligible ways. A simple command is generally enough to allow panicked people to operate in a stable manner, and the idealized system has been used by fighter pilots for years, is now marketed to motorcyclists, and with any hope, the Heads up Display will be saving the lives of recreational divers in the coming months. 
+
+Imagine a diver getting back into the water after several years, without a refresher course (since he believes he can recall the information). Out of practice, in a wetsuit perhaps too thin for the water, and fighting a current the entire dive, he realizes he burned through his air supply faster than intended. At 70 feet, he has perhaps 2 minutes left (which at about 30-40 he’ll have 8 minutes left due to a change in pressure). Inhaling at this depth, has resistance due to low tank pressure, and he panics. He rockets to the surface, oblivious to the expansion of air in his tank, still assuming he only has 120 seconds left. Upon breaking the surface, he suffers a fatal embolism. 
+
 
 Problem Statement
 =================
@@ -42,7 +48,4 @@ will need to undergo rigorous testing and certification to be ready for prime-ti
 
 Conclusion
 ==========
-How might our diver's story have been different if he had been using our system?
-When he made his rapid ascent to the surface, his focus was on his tank pressure,
-but the most imminent threat at that point was his rapid ascent rate.  Our computer
-could have detected this and flashed him an ascent rate warning.
+How might our diver's story have been different if he had
